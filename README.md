@@ -1,1 +1,1 @@
-# Problem-Solving solutions on code forces mainly and n other platforms
+# Problem-Solving solutions on code forces mainly and other platforms

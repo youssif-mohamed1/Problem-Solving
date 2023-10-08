@@ -20,7 +20,7 @@ Feel free to explore and use the solutions as a reference to improve your proble
 
 The repository is organized as follows:
 
-- `ByDifficulty/`: Solutions organized by difficulty level (e.g., Easy, Medium, Hard).
+- `Byrate/`: Solutions organized by difficulty level (e.g.,800, 900, 1000).
 - `ByCategory/`: Solutions organized by problem category (e.g., Dynamic Programming, Graph Algorithms).
 - `ContestUpsolving/`: Solutions from competitive programming contests.
 
